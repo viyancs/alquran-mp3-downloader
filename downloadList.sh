@@ -20,7 +20,7 @@ fi
 #creating array for link with 3 number segment
 if (($c >99 ))
  then
-        urls[$c]='http://server8.mp3quran.net/mtrod/0'$c'.mp3'
+        urls[$c]='http://server8.mp3quran.net/mtrod/'$c'.mp3'
 fi
 done
 
