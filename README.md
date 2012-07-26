@@ -14,7 +14,7 @@ installation requiretment
 for mac
 <pre> sudo port install wget </pre>
 for linux ubuntu
-<pre> sudo apt-install get wget</pre>
+<pre> sudo apt-get install wget</pre>
 other
 <pre> you can search in google ...:P </pre>
 
