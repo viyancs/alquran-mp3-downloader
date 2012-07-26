@@ -6,6 +6,7 @@ download alquran mp3 with the reciter is Abdullah Al-Mattrod
 requiretment
 ------------
 1) make sure you have [wget](http://www.gnu.org/software/wget/) 
+<br>
 2) operation system is Linux or Mac
 
 installation requiretment
@@ -25,5 +26,4 @@ how to use ?
 sudo chmod u+x downloadList.sh 
 </pre>
 2)downloading file
-P
 <pre>sudo sh downloadList.sh </pre>
