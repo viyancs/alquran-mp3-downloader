@@ -9,6 +9,10 @@ requiretment
 <br>
 2) operation system is Linux or Mac
 
+Support
+----------
+all variant linux and unix, because using shell script.
+
 installation requiretment
 -------------------------
 for mac
@@ -21,9 +25,9 @@ other
 
 how to use ?
 ------------
-1)change permission file to execute using chmod
+1) change permission file to execute using chmod
 <pre>
 sudo chmod u+x downloadList.sh 
 </pre>
-2)downloading file
+2) downloading file
 <pre>sudo sh downloadList.sh </pre>
