@@ -12,6 +12,7 @@ requiretment
 Support
 ----------
 all variant linux and unix, because using shell script.
+for windows user you can donwload shell script like git-shell https://msysgit.github.io/ or you can download  https://www.cygwin.com/
 
 installation requiretment
 -------------------------
