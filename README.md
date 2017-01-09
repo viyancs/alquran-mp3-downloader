@@ -32,3 +32,7 @@ sudo chmod u+x downloadList.sh
 </pre>
 2) downloading file
 <pre>sudo sh downloadList.sh </pre>
+
+
+List Reciter & Url 
+1 . http://server8.mp3quran.net/afs_dori/{...} Mishary Al Afasy 
