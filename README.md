@@ -1,13 +1,12 @@
 alquran-mp3-downloader
 ======================
 
-download alquran mp3 with the reciter is Abdullah Al-Mattrod
-
+download alquran mp3 with most reciter in the world
 requiretment
 ------------
-1) make sure you have [wget](http://www.gnu.org/software/wget/) 
-<br>
-2) operation system is Linux or Mac
+
+1) make sure you have [wget](http://www.gnu.org/software/wget/)
+2) operation system is Linux, Mac, Windows or something that have Bash Comand 
 
 Support
 ----------
@@ -26,6 +25,12 @@ other
 
 how to use ?
 ------------
+Windows 
+-------
+Run from comand line or Open using Comand line
+
+Mac or Linux
+-------------
 1) change permission file to execute using chmod
 <pre>
 sudo chmod u+x downloadList.sh 
